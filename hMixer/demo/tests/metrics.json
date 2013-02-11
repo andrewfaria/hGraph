@@ -1,7 +1,7 @@
 [{
     "gender"  : "male",
     "metrics" : [{
-        "name"     : "LDL",
+        "name"     : "Donuts",
         "dayscore" : 10,
         "features" : { 
             "healthyrange"  : [0, 130],
@@ -11,7 +11,7 @@
             "unitlabel"     : "mg/dL"
         }
     },{
-        "name"     : "HDL",
+        "name"     : "Coffee",
         "features" : { 
             "healthyrange"  : [50, 60],
             "totalrange"    : [0, 60],
@@ -20,7 +20,7 @@
             "unitlabel"     : "mg/dL"
         }
     },{
-        "name"     : "Triglycerides",
+        "name"     : "eCigs",
         "features" : { 
             "healthyrange"  : [0, 150],
             "totalrange"    : [0, 600],
